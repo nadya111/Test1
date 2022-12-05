@@ -2,6 +2,7 @@
 commit test
 testing line update
 untesting file
-	789.
+	789
 Add line
 new branch line
+new line for GUI
